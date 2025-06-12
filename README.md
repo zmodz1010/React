@@ -29,18 +29,3 @@ This is a beginner-friendly React app that features:
 - [Three.js](https://threejs.org/) (dependency for Vanta)
 
 ---
-
-## 📸 Screenshots
-
-| Login Page | Calculator |
-|------------|------------|
-| ![Login](./screenshots/login.png) | ![Calculator](./screenshots/calculator.png) |
-
----
-
-## ⚙️ Setup & Run
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/react-login-calculator.git
-cd react-login-calculator
