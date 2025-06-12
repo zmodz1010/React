@@ -1,12 +1,46 @@
-# React + Vite
+# 🌟 React Login + Calculator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a beginner-friendly React app that features:
 
-Currently, two official plugins are available:
+- 🔐 A login screen with logo-as-button authentication
+- 🌗 Dark/Light mode toggle
+- 🧮 A real-time calculator with animated fog background (Vanta.js)
+- 🎨 Aesthetic UI with minimal clean layout
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React with [Vite](https://vitejs.dev/) for super-fast development
+- Login using [dummyjson.com](https://dummyjson.com/)
+- Vanta.js fog animation background on the calculator screen
+- Dark mode toggle in the top-right corner
+- Real-time calculator operations
+- Modern responsive UI
+
+---
+
+## 🧱 Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [React Router](https://reactrouter.com/)
+- [Vanta.js](https://github.com/tengbao/vanta)
+- [Three.js](https://threejs.org/) (dependency for Vanta)
+
+---
+
+## 📸 Screenshots
+
+| Login Page | Calculator |
+|------------|------------|
+| ![Login](./screenshots/login.png) | ![Calculator](./screenshots/calculator.png) |
+
+---
+
+## ⚙️ Setup & Run
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/react-login-calculator.git
+cd react-login-calculator
